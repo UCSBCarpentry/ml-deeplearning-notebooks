@@ -1,6 +1,6 @@
 # ml-deeplearning-notebooks
 
-This is a series of Jupyter notebooks introducing machine learning and deep learning concepts, developed for the workshop [Introduction to Machine Learning in Python](https://carpentry.library.ucsb.edu/workshop/2026/02/02/ucsb-ml.html), offered by the Carpentry @ UCSB in Winter 2025. 
+This is a series of Jupyter notebooks introducing machine learning and deep learning concepts, developed for the workshop [Introduction to Machine Learning in Python](https://carpentry.library.ucsb.edu/workshop/2026/02/02/ucsb-ml.html), offered by the [Carpentry @ UCSB Library](https://carpentry.library.ucsb.edu/) in Winter 2026. 
 
 These notebooks take you from ML fundamentals through convolutional neural networks.
 
